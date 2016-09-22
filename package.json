@@ -1,0 +1,15 @@
+{
+  "name": "generator-ciec",
+  "version": "1.0.0",
+  "description": "new generator",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ciec",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^0.24.1",
+    "yo": "^1.8.5"
+  }
+}
